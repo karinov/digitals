@@ -4,6 +4,8 @@ A simple example and cheat sheet for using Sphinx to document small Python modul
 
 Source: [https://github.com/karinov/bayi-batpil](https://github.com/karinov/bayi-batpil)
 
+[https://otomotifid.readthedocs.io/en/latest/](https://otomotifid.readthedocs.io/en/latest/)
+
 Python documentation cheat sheet: [`module/__init__.py`](module/__init__.py)
 
 ## Installation
